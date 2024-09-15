@@ -31,6 +31,7 @@ There are many fonts yet to be found. Here's a brief list of most wanted fonts s
 
 Some missing font samples for the reference:
 
+![](samples/fonts_wanted.png)
 
 # Tony Hawk's Pro Skater
 
@@ -40,11 +41,15 @@ Some missing font samples for the reference:
 
 Probably the most unimpressive font ever used in a Tony Hawk's game. You can see letters N and A are lowercase, this is somewhat Neversoft used a lot in their designs. Also, the apostrophe is a bit different in the actual font, it looks like they just put the comma up there.
 
+![](samples/thps1_helvetica.png)
+
 ## Lithia
 * Link: https://www.myfonts.com/fonts/t26/lithia/
 * Usage: THPS1 logo lower part, "pro skater"
 
 You can see everything is pretty same except the T letter. Either there was an older version of Lithia with normal T, or Neversoft decided to redesign this letter, cause I did not find any other variation of this font. 
+
+![](samples/thps1_lithia.png)
 
 ## ITC Machine
 * Link: https://www.myfonts.com/fonts/itc/machine/
@@ -52,17 +57,23 @@ You can see everything is pretty same except the T letter. Either there was an o
 
 The signature "THPS1" font. While searching for this one I found several threads where people were hopelessly asking what font it is. ITC Machine it is. You can find several differences in the game font, but I believe those are caused due to low resolution of the original bitmaps. The actual font is not as wide as well, I did not find any wider version than the bold one.
 
+![](samples/thps1_machine.png)
+
 ## Punk Ass Bitch
 * Link: http://www.dafont.com/punkassbitch.font
 * Usage: menu font on the right side (options, player select, etc)
 
 A rather random font name, ain't it? 
 
+![](samples/thps1_punkass.png)
+
 ## Contour Generator
 * Link: https://www.dafont.com/contour-generator.font
 * Usage: PAUSED text in pause menu 
 
 Basically, RCA font. Thanks AxlRocks for this contribution.
+
+![](samples/thp1_contour.png)
 
 # Tony Hawk's Pro Skater 2
 
@@ -72,11 +83,15 @@ Basically, RCA font. Thanks AxlRocks for this contribution.
 
 I always thought this was an exclusive design, however, here is the original font. Wherever you'll see this, you'll say it's so THPS2. You can clearly see they squished the text a bit for the logo.
 
+![](samples/thps2_78londonfall.png)
+
 ## Nasalization
 * Link: http://www.dafont.com/nasalization.font
 * Usage: pretty much everything in THPS2 including trick string, menus, loadscreens, etc.
 
 This font is kinda old, though I've never seen it anywhere else but THPS2 until fortunately, some guys used variation of this font in their trailer, which helped to identify it. It was inspired by NASA logo.
+
+![](samples/thps2_nasalization.png)
 
 ## Pricedown
 * Link: http://www.dafont.com/pricedown.font
@@ -84,17 +99,23 @@ This font is kinda old, though I've never seen it anywhere else but THPS2 until 
 
 GTA? Yeah, it is. Except Neversoft messed a lot with letter sizes.
 
+![](samples/thps2_pricedown.png)
+
 ## Comic Sans
 * Link: https://www.linotype.com/339949/comic-sans-family.html
 * Usage: goal check list
 
 It becomes obvious if you'll check the GBA version, since they had to make the text larger. Other versions make it barely recognizable due to the low resolution of the font.
 
+![](samples/thps2_comicsans.png)
+
 ## Especial Kay
 * http://www.scootergraphics.com/especialkay/index.html
 * Usage: PAUSED text as well as various background images
 
 A "marker" handwritten font, easily recognizable by its letter E.
+
+![](samples/thps2_especialkay.png)
 
 ## Tony Hawk's Pro Skater 2X
 
