@@ -235,18 +235,25 @@ This blocky font is easy to recognize, it was used to reveal the infamous (o)(o)
 
 Pretty much mainstream kewl font. It looks pretty nice indeed, but it shouldn't be overused, that's why you can see just a bit of it in THUG.
 
+![](samples/thug_sofachrome.png)
+
 ## Aurora
 * Link: https://www.myfonts.com/fonts/bitstream/aurora/
 * Usage: LOADING text
 
 This font was also used for MAFIA video game logo. I don't quite remember if it is used anywhere else in THUG, but here it is. Apparently, L is rotated 7 and I is mirrored 1.
 
+![](samples/thug_aurora.png)
+
 # Tony Hawk's Underground 2
+
 ## Bolt BT (or ITC Bolt)
 * Link: http://www.azfonts.net/load_font/boltb.html
 * Usage: trick string
 
 No doubt this font looks familiar, you, THUG2 maniacs. This font was later reused in THAW as a dialog font.
+
+![](samples/thug2_bolt.png)
 
 ## Impact (maybe some variation)
 * Link: https://www.myfonts.com/fonts/urw/impact/
@@ -254,17 +261,23 @@ No doubt this font looks familiar, you, THUG2 maniacs. This font was later reuse
 
 So this one turned out to be the good old Impact we all know and love. Or maybe we don't, but it doesn't change the fact.
 
+![](samples/thug2_impact.png)
+
 ## Compacta
 * Link: https://www.myfonts.com/fonts/itc/compacta
 * Usage: menu text
 
 Stretched vertically.
 
+![](samples/thug2_compacta.png)
+
 ## Delivered JNL
 * Link: https://www.myfonts.com/collections/delivered-font-jeff-levine
 * Usage: loadscreen titles
 
 Another stencil font, used as a font for classic level names. Only used on the loading screens.
+
+![](samples/thug2_delivered.png)
 
 # Tony Hawk's American Wasteland
 
@@ -274,11 +287,15 @@ Another stencil font, used as a font for classic level names. Only used on the l
 
 Stencil font is a hell to find, but when you do, it's rewarding. This huge O always looks cool, no matter how long you stare.
 
+![](samples/thaw_glaser.png)
+
 ## City
 * Link: https://www.bertholdtypes.com/font/city/pro/
 * Usage: various menu headers
 
 Looks like an old western saloon font, especially this stencil variant, the original font however is not stencil, but it's as close as you can get.
+
+![](samples/thaw_city.png)
 
 ## ITC Honda
 * Link: https://www.myfonts.com/fonts/linotype/honda/honda/
@@ -286,11 +303,15 @@ Looks like an old western saloon font, especially this stencil variant, the orig
 
 Contributed by AxlRocks. "Also, the "Paused" graphic for the Flip sponsor theme in THUG1 uses it as well."
 
+![](samples/thaw_honda.png)
+
 # Tony Hawk's Project 8
 
 ## Big Noodle Titling
 * Link: https://www.myfonts.com/collections/big-noodle-titling-font-sentinel-type
 * Usage: pro skater names in presentation cutscenes
+
+![](samples/thp8_bignoodle.png)
 
 # Tony Hawk's Proving Ground
 
@@ -300,6 +321,8 @@ Contributed by AxlRocks. "Also, the "Paused" graphic for the Flip sponsor theme 
 
 Contributed by ThAeM a long time ago, finally here.
 
+![](samples/thpg_positec.png)
+
 # Tony Hawk's Shred Session (a cancelled mobile game)
 
 ## Anisette
@@ -307,6 +330,8 @@ Contributed by ThAeM a long time ago, finally here.
 * Usage: logo
 
 This font doesn't have an italic version, must be edited.
+
+![](samples/thss_anisette.png)
 
 # Tony Hawk's Pro Skater HD
 
