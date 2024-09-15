@@ -345,17 +345,23 @@ This font doesn't have an italic version, must be edited.
 
 2 fonts 1 logo
 
+![](samples/thpshd_logo.png)
+
 ## Candara
 * Link: https://www.myfonts.com/fonts/ascender/candara/bold/
 * Usage: trick string
 
 The font is rather small in the game, but that 5 shape definitely gives it away.
 
+![](samples/thpshd_candara.png)
+
 ## Clarendon
 * Link: https://www.myfonts.com/fonts/bitstream/clarendon/
 * Usage: various dialog messages, score
 
-A rather old and famous typeface
+A rather old and famous western typeface
+
+![](samples/thpshd_clarendon.png)
 
 # Tony Hawk's Pro Skater 5
 
@@ -365,11 +371,15 @@ A rather old and famous typeface
 
 Funny bold font. Robomodo is not that good at font picking, but this one is fine.
 
+![](samples/thps5_azosans.png)
+
 ## Alternate Gothic No. 1
 * Link: https://www.myfonts.com/fonts/urw/alternate-gothic/
 * Usage: various UI elements, menus, etc.
 
 Nothing spectacular.
+
+![](samples/thps5_alternategothic.png)
 
 ## Baksheesh
 * Link: https://www.myfonts.com/fonts/hamburger/baksheesh/
@@ -377,9 +387,13 @@ Nothing spectacular.
 
 THPS5 definitely was a font fest, you can find up to 4 different fonts on the same screen!
 
+![](samples/thps5_baksheesh.png)
+
 ## Nikaia
 * Link: https://www.myfonts.com/fonts/millertype/nikaia/
 * Usage: skater customization screen - tab titles, tricks
+
+![](samples/thps5_nikaia.png)
 
 # Tony Hawk's Pro Skater 1+2
 
@@ -389,9 +403,14 @@ THPS5 definitely was a font fest, you can find up to 4 different fonts on the sa
 
 They used particularly "Sonic Std Cut Thru Heavy" font face, the original one has cuts on multiple letters.
 
+![](samples/thps12_sonic.png)
+
 ## Neo Sans
 * Link: https://www.myfonts.com/fonts/mti/neo-sans/
 * Usage: trick string and pretty much everything else.
 
 The font you're looking at while you play.
- 
+
+![](samples/thps12_neosans.png)
+
+# That's all folks!
