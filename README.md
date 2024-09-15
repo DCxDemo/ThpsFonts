@@ -177,11 +177,11 @@ Some of these fonts are surprisingly old. Even though it's very simple, you will
 
 ![](samples/thps3_microgramma.png)
 
-## Gonzalez (close call)
+## Gonzalez (probably not, but close call)
 * Link: https://www.t26.com/fonts/8437-Gonzalez
 * Usage: trick string
 
-The original font is so low-res, it's hard to tell what exactly was used. Gonzalez is the best guess we've got so far.
+The original font is so low-res, it's hard to tell what exactly was used. Gonzalez is the best guess we've got so far to be used as a replacement.
 
 ![](samples/thps3_gonzalez.png)
 
