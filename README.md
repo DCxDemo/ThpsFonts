@@ -4,7 +4,7 @@ This repository is the new home for the THPS fonts hunt started back in 2014. Th
 Call me a font maniac, as I'm the one who was bored enough to write the font tool for THPS games and now this, but fonts are actually a very important part of game design. Anyways, if you ever wanted to write something using a font from a Tony Hawk game, chances are that you will find it here. For a long time I thought these games use some exclusive designs, cause I never seen these fonts outside Tony Hawk games, but occasionaly this is not the case. Most of these fonts, if not all of them, actually have their Truetype sources. However, most of these fonts are commercial, but it doesn't hurt to try it on a preview page. So prepare yourself to scroll down if you're interested in. Of course a lot of fonts are missing for now, so if by a chance you're familiar with other sources, share the knowledge.
 
 # Ways to contibute
-Since we're on hosted on the Github now, feel free to open issues to deiscuss potential candidates. You can also join the LegacyThps server on Discord or write me an e-mail if you wish. Any contributions are welcome.
+Since we're on hosted on the Github now, feel free to open issues to discuss potential candidates. You can also join the LegacyThps server on Discord or write me an e-mail if you wish. Any contributions are welcome.
 
 # Contributions
 Credit where credit's due. People contributed to the list:
@@ -12,7 +12,7 @@ Credit where credit's due. People contributed to the list:
 * WhatTheFont: Tecnotronic, Lobotomy
 
 # !!! Warning !!!
-Please keep in mind that most fonts uses in Tony Hawk's games are licensed and are **not free to use**. Please thoroughly refer to the license before using them in your projects. The MIT license in this repo refers to the collected and structured information about these fonts, not the fonts themselves!
+Please keep in mind that most fonts uses in Tony Hawk's games are licensed and are **not free to use**. Please thoroughly refer to the font's license before using it in your project. The MIT license in this repo refers to the collected and structured information about these fonts, not to the fonts themselves!
 
 # WANTED fonts
 There are many fonts yet to be found. Here's a brief list of most wanted fonts so far:
