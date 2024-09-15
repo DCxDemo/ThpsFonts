@@ -117,13 +117,15 @@ A "marker" handwritten font, easily recognizable by its letter E.
 
 ![](samples/thps2_especialkay.png)
 
-## Tony Hawk's Pro Skater 2X
+# Tony Hawk's Pro Skater 2X
 
-# Kimberley
+## Kimberley
 * Link: https://www.dafont.com/kimberley.font
 * Usage: trick string, various menus
 
 There are Bolt Bt vibes from THUG2 in this font, the one used all over the game, replacing Nasalization on xbox.
+
+![](samples/thps2x_kimberley.png)
 
 ## Tony Hawk's Pro Skater 3
 
@@ -133,11 +135,15 @@ There are Bolt Bt vibes from THUG2 in this font, the one used all over the game,
 
 It was basically the font that started it all. PDF files contain meta information about the fonts used and Ritafurey was one of them. You can see the N letter is small again.
 
+![](samples/thps3_ritafurey.png)
+
 ## Uptown
 * Link: http://www.dafont.com/uptown.font
 * Usage: loading screens, menu titles
 
 Agressive "street" font. It was so cool back then. Funny fact is that it was actively used during development of THPS1. You can notice this font all around the early THPS1 beta builds.
+
+![](samples/thps3_uptown.png)
 
 ## Analog
 * Link: http://www.dafont.com/analog.font
@@ -145,11 +151,15 @@ Agressive "street" font. It was so cool back then. Funny fact is that it was act
 
 It was a surprise to find this font, even though it's probably not that important and way less known.
 
+![](samples/thps3_analog.png)
+
 ## Futura ND (possibly some variant)
 * Link: https://www.myfonts.com/fonts/neufville/futura-nd/
 Usage: this is the font used to write the copyright text and game type explanations on loading screens. 
 
 This font was used a lot during the development for the advertisement as seen on promotional beta screenshots.
+
+![](samples/thps3_futura.png)
 
 ## Microgramma (or Eurostile)
 * Link: https://www.myfonts.com/fonts/urw/microgramma/
@@ -157,11 +167,15 @@ This font was used a lot during the development for the advertisement as seen on
 
 Some of these fonts are surprisingly old. Even though it's very simple, you will recognize it instantly.
 
+![](samples/thps3_microgramma.png)
+
 ## Gonzalez (close call)
 * Link: https://www.t26.com/fonts/8437-Gonzalez
 * Usage: trick string
 
-The original font is so low-res, it's hard to tell if this exact font was used, but it's the closest one we've got so far.
+The original font is so low-res, it's hard to tell what exactly was used. Gonzalez is the best guess we've got so far.
+
+![](samples/thps3_gonzalez.png)
 
 # Tony Hawk's Pro Skater 4
 
@@ -171,11 +185,15 @@ Usage: loading screens, various messages and menus
 
 Another great font linked to the game in your mind. Remember THPS4 had a lot of 80s music, so were the fonts.
 
+![](samples/thps4_crilee.png)
+
 ## ITC Eras
 * Link: https://www.myfonts.com/fonts/itc/eras/
 * Usage: helper text, dialogs, text input etc.
 
 This font is pretty common, no doubt you've seen it in the wilds.
+
+![](samples/thps4_eras.png)
 
 ## Dronecat
 * Link: http://ufonts.com/download/dronecat/128238.html
@@ -183,11 +201,15 @@ This font is pretty common, no doubt you've seen it in the wilds.
 
 Thanks ThAEm, we've got this one. A rather weird name. This font was probably edited by Neversoft, as you may notice p and d are way taller.
 
+![](samples/thps4_dronecat.png)
+
 ## Handel Gothic
 * Link: https://www.myfonts.com/fonts/bitstream/handel-gothic/
 * Usage: 
 
 This font is used for large scrolling pro skater names in the intro. This font also found in the unused score.fnt in THPS3. It was intended to be the timer font in thps3 at some point.
+
+![](samples/thps4_handelgothic.png)
 
 ## Serpentine
 * Link: https://www.myfonts.com/collections/serpentine-font-linotype
@@ -195,11 +217,15 @@ This font is used for large scrolling pro skater names in the intro. This font a
 
 There just had to be Serpentine in there. It was just everywhere, including DOOM 3.
 
+![](samples/thps4_serpentine.png)
+
 ## Kitchen Police
 * Link: https://www.dafont.com/kitchen-police.font
 * Usage: some promo materials (daisy cheat code reveal)
 
 This blocky font is easy to recognize, it was used to reveal the infamous (o)(o)
+
+![](samples/thps4_kitchenpolice.png)
 
 # Tony Hawk's Underground
 
