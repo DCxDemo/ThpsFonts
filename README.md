@@ -135,7 +135,7 @@ There are Bolt Bt vibes from THUG2 in this font, the one used all over the game,
 
 ![](samples/thps2x_kimberley.png)
 
-## Tony Hawk's Pro Skater 3
+# Tony Hawk's Pro Skater 3
 
 ## Ritafurey
 * Link: http://www.linotype.com/452767/ritafurey-family.html
