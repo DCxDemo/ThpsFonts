@@ -12,7 +12,7 @@ Credit where credit's due. People contributed to the list:
 * WhatTheFont: Tecnotronic, Lobotomy
 
 # !!! Warning !!!
-Please keep in mind that most fonts uses in Tony Hawk's games are licensed and are **not free to use**. Please thoroughly refer to the font's license before using it in your project. The MIT license in this repo refers to the collected and structured information about these fonts, not to the fonts themselves!
+Please keep in mind that most fonts used in Tony Hawk's games are licensed and are **not free to use**. Please thoroughly refer to the font's license before using it in your project. The MIT license in this repo refers to the collected and structured information about these fonts, not to the fonts themselves!
 
 # WANTED fonts
 There are many fonts yet to be found. Here's a brief list of most wanted fonts so far:
