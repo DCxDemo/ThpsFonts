@@ -75,6 +75,14 @@ Basically, RCA font. Thanks AxlRocks for this contribution.
 
 ![](samples/thp1_contour.png)
 
+## ITC Bauhaus
+* Link: https://www.myfonts.com/collections/bauhaus-font-itc
+* Usage: pro skater named on the cover art
+
+A fat roundish look gives this one away instantly.
+
+![](samples/thps1_bauhaus.png)
+
 # Tony Hawk's Pro Skater 2
 
 ## 76London Fall
