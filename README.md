@@ -110,7 +110,7 @@ It becomes obvious if you'll check the GBA version, since they had to make the t
 ![](samples/thps2_comicsans.png)
 
 ## Especial Kay
-* http://www.scootergraphics.com/especialkay/index.html
+* Link: http://www.scootergraphics.com/especialkay/index.html
 * Usage: PAUSED text as well as various background images
 
 A "marker" handwritten font, easily recognizable by its letter E.
@@ -155,7 +155,7 @@ It was a surprise to find this font, even though it's probably not that importan
 
 ## Futura ND (possibly some variant)
 * Link: https://www.myfonts.com/fonts/neufville/futura-nd/
-Usage: this is the font used to write the copyright text and game type explanations on loading screens. 
+* Usage: this is the font used to write the copyright text and game type explanations on loading screens. 
 
 This font was used a lot during the development for the advertisement as seen on promotional beta screenshots.
 
@@ -181,7 +181,7 @@ The original font is so low-res, it's hard to tell what exactly was used. Gonzal
 
 ## Crillee
 * Link: https://www.myfonts.com/fonts/linotype/crillee/
-Usage: loading screens, various messages and menus
+* Usage: loading screens, various messages and menus
 
 Another great font linked to the game in your mind. Remember THPS4 had a lot of 80s music, so were the fonts.
 
@@ -205,7 +205,7 @@ Thanks ThAEm, we've got this one. A rather weird name. This font was probably ed
 
 ## Handel Gothic
 * Link: https://www.myfonts.com/fonts/bitstream/handel-gothic/
-* Usage: 
+* Usage: pro skater primary subtitling in the intro
 
 This font is used for large scrolling pro skater names in the intro. This font also found in the unused score.fnt in THPS3. It was intended to be the timer font in thps3 at some point.
 
@@ -213,7 +213,7 @@ This font is used for large scrolling pro skater names in the intro. This font a
 
 ## Serpentine
 * Link: https://www.myfonts.com/collections/serpentine-font-linotype
-* Usage: Pro skater names in the intro
+* Usage: pro skater secondary subtitling in the intro
 
 There just had to be Serpentine in there. It was just everywhere, including DOOM 3.
 
@@ -321,7 +321,7 @@ This font doesn't have an italic version, must be edited.
 2 fonts 1 logo
 
 ## Candara
-* https://www.myfonts.com/fonts/ascender/candara/bold/
+* Link: https://www.myfonts.com/fonts/ascender/candara/bold/
 * Usage: trick string
 
 The font is rather small in the game, but that 5 shape definitely gives it away.
