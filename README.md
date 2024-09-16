@@ -17,11 +17,11 @@ Please keep in mind that most fonts used in Tony Hawk's games are licensed and a
 # WANTED fonts
 There are many fonts yet to be found. Here's a brief list of most wanted fonts so far:
 * THPS2 career goal font (comic sans?)
-* THPS2x header font (main menu title, paused text)
-* THPS3 trick string (gonzalez?)
+* THPS2x header font (main menu title, paused text) https://github.com/DCxDemo/ThpsFonts/issues/5
+* THPS3 trick string (gonzalez?) https://github.com/DCxDemo/ThpsFonts/issues/4
 * THPS4 trick string
 * THUG trick string
-* THUG logo font
+* THUG logo font https://github.com/DCxDemo/ThpsFonts/issues/6 
 * THAW UI font (some typewriter font)
 * TH Downhill Jam trick string
 * TH Downhill Jam UI font
