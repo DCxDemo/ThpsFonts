@@ -87,8 +87,9 @@ A fat roundish look gives this one away instantly.
 
 # Tony Hawk's Pro Skater 2
 
-## 76London Fall
-* Link: http://www.azfonts.net/load_font/76london-fall.html
+## London (76 Fall)
+* Author: Peter Bruhn, T-26
+* Link: https://www.t26.com/fonts/London
 * Usage: THPS2 logo
 
 I always thought this was an exclusive design, however, here is the original font. Wherever you'll see this, you'll say it's so THPS2. You can clearly see they squished the text a bit for the logo.
@@ -96,7 +97,8 @@ I always thought this was an exclusive design, however, here is the original fon
 ![](samples/thps2_78londonfall.png)
 
 ## Nasalization
-* Link: http://www.dafont.com/nasalization.font
+* Author: Ray Larabie, Typodermic Fonts
+* Link: https://typodermicfonts.com/nasalization/
 * Usage: pretty much everything in THPS2 including trick string, menus, loadscreens, etc.
 
 This font is kinda old, though I've never seen it anywhere else but THPS2 until fortunately, some guys used variation of this font in their trailer, which helped to identify it. It was inspired by NASA logo.
@@ -104,7 +106,8 @@ This font is kinda old, though I've never seen it anywhere else but THPS2 until 
 ![](samples/thps2_nasalization.png)
 
 ## Pricedown
-* Link: http://www.dafont.com/pricedown.font
+* Author: Ray Larabie, Typodermic Fonts
+* Link: https://typodermicfonts.com/pricedown/
 * Usage: menu background title and loadscreens
 
 GTA? Yeah, it is. Except Neversoft messed a lot with letter sizes.
