@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/ff2b55f4-475c-43c6-8153-1d9b84335e63)
+
 This repository is the new home for the THPS fonts hunt started back in 2014. The original thread titled "THPS source fonts (TrueType, vector, HD, whatever)" was hosted on [thmods.com website \(archived link\)](http://web.archive.org/web/20240211055209/http://thmods.com/forum/viewtopic.php?t=489).
 
 # Introduction
