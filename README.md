@@ -146,7 +146,8 @@ There are Bolt Bt vibes from THUG2 in this font, the one used all over the game,
 # Tony Hawk's Pro Skater 3
 
 ## Ritafurey
-* Link: http://www.linotype.com/452767/ritafurey-family.html
+* Author: Rian Hughes, Device
+* Link: https://www.rianhughes.com/catalogue/ritafurey
 * Usage: THPS3 logo, THPS4 logo, MHPB2 logo and other Activision O2 titles 
 
 It was basically the font that started it all. PDF files contain meta information about the fonts used and Ritafurey was one of them. You can see the N letter is small again.
