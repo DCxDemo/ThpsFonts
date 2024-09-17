@@ -299,10 +299,11 @@ Another stencil font, used as a font for classic level names. Only used on the l
 # Tony Hawk's American Wasteland
 
 ## Glaser Stencil
+* Author: Milton Glaser
 * Link: https://www.myfonts.com/fonts/urw/glaser-stencil/
 * Usage: trick string
 
-Stencil font is a hell to find, but when you do, it's rewarding. This huge O always looks cool, no matter how long you stare.
+Stencil font is a hell to find, but when you do, it's rewarding. This huge O always looks cool, no matter how long you stare. Keep in mind this font was created in 1967, there are many digital adaptations from different foundries.
 
 ![](samples/thaw_glaser.png)
 
