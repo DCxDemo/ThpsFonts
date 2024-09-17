@@ -72,8 +72,9 @@ A rather random font name, ain't it? Basically, it's a highly eroded variant of 
 ![](samples/thps1_punkass.png)
 
 ## Contour Generator
-* Link: https://www.dafont.com/contour-generator.font
-* Usage: PAUSED text in pause menu 
+* Author: Ray Larabie, Typodermic Fonts
+* Link: https://typodermicfonts.com/public-domain/
+* Usage: PAUSED text in pause menu
 
 Basically, RCA font. Thanks AxlRocks for this contribution.
 
