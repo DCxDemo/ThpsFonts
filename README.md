@@ -313,6 +313,14 @@ Contributed by AxlRocks. "Also, the "Paused" graphic for the Flip sponsor theme 
 
 ![](samples/thaw_honda.png)
 
+# Tony Hawk's Downhill Jam
+
+## SF Ironsides (https://github.com/DCxDemo/ThpsFonts/issues/8)
+* Link: https://www.dafont.com/sf-ironsides.font
+* Usage: the "cross" logo on the loading screen, character names in the intro and 3-2-1-GO! sequence.
+
+![](samples/thdj_ironsides.png)
+
 # Tony Hawk's Project 8
 
 ## Big Noodle Titling
