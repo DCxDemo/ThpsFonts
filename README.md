@@ -63,10 +63,11 @@ The signature "THPS1" font. While searching for this one I found several threads
 ![](samples/thps1_machine.png)
 
 ## Punk Ass Bitch
-* Link: http://www.dafont.com/punkassbitch.font
+* Author: Mattia Marchi
+* Link: https://web.archive.org/web/20011112022456/http://hem.passagen.se/hmm/fonts/
 * Usage: menu font on the right side (options, player select, etc)
 
-A rather random font name, ain't it? 
+A rather random font name, ain't it? Basically, it's a highly eroded variant of Impact.
 
 ![](samples/thps1_punkass.png)
 
