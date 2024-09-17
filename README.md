@@ -244,7 +244,8 @@ This blocky font is easy to recognize, it was used to reveal the infamous (o)(o)
 # Tony Hawk's Underground
 
 ## Sofachrome
-* Link: https://www.myfonts.com/fonts/typodermic/sofachrome/
+* Author: Ray Larabie, Typodermic Fonts
+* Link: https://typodermicfonts.com/sofachrome/
 * Usage: loading screens, several titles
 
 Pretty much mainstream kewl font. It looks pretty nice indeed, but it shouldn't be overused, that's why you can see just a bit of it in THUG.
