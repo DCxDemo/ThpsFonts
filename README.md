@@ -346,7 +346,8 @@ Contributed by AxlRocks. "Also, the "Paused" graphic for the Flip sponsor theme 
 # Tony Hawk's Proving Ground
 
 ## Positec
-* Link: https://www.myfonts.com/fonts/fw-identikal/positec/
+* Author: Identikal, T.26
+* Link: https://www.t26.com/fonts/288-Positec
 * Usage: trick string
 
 Contributed by ThAeM a long time ago, finally here.
@@ -412,7 +413,8 @@ Nothing spectacular.
 ![](samples/thps5_alternategothic.png)
 
 ## Baksheesh
-* Link: https://www.myfonts.com/fonts/hamburger/baksheesh/
+* Author: Identikal, T.26
+* Link: https://www.t26.com/fonts/6067-Baksheesh-Complete
 * Usage: trickstring, pro bios, some UI descriptions.
 
 THPS5 definitely was a font fest, you can find up to 4 different fonts on the same screen!
