@@ -212,6 +212,7 @@ This font is pretty common, no doubt you've seen it in the wilds.
 ![](samples/thps4_eras.png)
 
 ## Dronecat
+* Author: Claes Källarsson, Fuel Fonts
 * Link: http://www.fuelfonts.com/archive/
 * Usage: menu titles.
 
