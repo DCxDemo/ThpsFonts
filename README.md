@@ -133,10 +133,11 @@ A "marker" handwritten font, easily recognizable by its letter E.
 # Tony Hawk's Pro Skater 2X
 
 ## Kimberley
-* Link: https://www.dafont.com/kimberley.font
+* Author: Ray Larabie, Typodermic Fonts
+* Link: https://typodermicfonts.com/kimberley/
 * Usage: trick string, various menus
 
-There are Bolt Bt vibes from THUG2 in this font, the one used all over the game, replacing Nasalization on xbox.
+There are Bolt Bt vibes from THUG2 in this font, the one used all over the game, replacing Nasalization on xbox. The key to this font was simple - the file name was actually just "kimberley".
 
 ![](samples/thps2x_kimberley.png)
 
