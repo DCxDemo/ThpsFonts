@@ -82,7 +82,7 @@ Basically, RCA font. Thanks AxlRocks for this contribution.
 
 ## ITC Bauhaus
 * Link: https://www.myfonts.com/collections/bauhaus-font-itc
-* Usage: pro skater named on the cover art
+* Usage: pro skater named on the cover art, promo materials
 
 A fat roundish look gives this one away instantly.
 
