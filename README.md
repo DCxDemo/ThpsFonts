@@ -204,7 +204,7 @@ This font is pretty common, no doubt you've seen it in the wilds.
 ![](samples/thps4_eras.png)
 
 ## Dronecat
-* Link: http://ufonts.com/download/dronecat/128238.html
+* Link: http://www.fuelfonts.com/archive/
 * Usage: menu titles.
 
 Thanks ThAEm, we've got this one. A rather weird name. This font was probably edited by Neversoft, as you may notice p and d are way taller.
