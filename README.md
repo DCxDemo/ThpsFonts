@@ -46,10 +46,11 @@ Probably the most unimpressive font ever used in a Tony Hawk's game. You can see
 ![](samples/thps1_helvetica.png)
 
 ## Lithia
-* Link: https://www.myfonts.com/fonts/t26/lithia/
+* Author: John Weise, T-26
+* Link: https://www.t26.com/fonts/386-Lithia
 * Usage: THPS1 logo lower part, "pro skater"
 
-You can see everything is pretty same except the T letter. Either there was an older version of Lithia with normal T, or Neversoft decided to redesign this letter, cause I did not find any other variation of this font. 
+You can see everything is pretty same except the T letter. We know for sure Neversoft just edited T in cause the original Lithia T can be seen on the back cover.
 
 ![](samples/thps1_lithia.png)
 
