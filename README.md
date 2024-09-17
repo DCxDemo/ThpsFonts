@@ -126,6 +126,7 @@ It becomes obvious if you'll check the GBA version, since they had to make the t
 ![](samples/thps2_comicsans.png)
 
 ## Especial Kay
+* Author: Martin Pfeiffer
 * Link: http://www.scootergraphics.com/especialkay/index.html
 * Usage: PAUSED text as well as various background images
 
