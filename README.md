@@ -21,11 +21,11 @@ There are many fonts yet to be found. Here's a brief list of most wanted fonts s
 * THPS2 career goal font (comic sans?)
 * THPS2x header font (main menu title, paused text) https://github.com/DCxDemo/ThpsFonts/issues/5
 * THPS3 trick string (gonzalez?) https://github.com/DCxDemo/ThpsFonts/issues/4
-* THPS4 trick string
-* THUG trick string
+* THPS4 trick string https://github.com/DCxDemo/ThpsFonts/issues/11
+* THUG trick string https://github.com/DCxDemo/ThpsFonts/issues/10
 * THUG logo font https://github.com/DCxDemo/ThpsFonts/issues/6 
 * THAW UI font (some typewriter font)
-* TH Downhill Jam trick string
+* TH Downhill Jam trick string https://github.com/DCxDemo/ThpsFonts/issues/7
 * TH Downhill Jam UI font
 * THP8 UI font
 * THPS5 logo font
