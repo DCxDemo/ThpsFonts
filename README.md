@@ -343,6 +343,13 @@ Contributed by AxlRocks. "Also, the "Paused" graphic for the Flip sponsor theme 
 
 ![](samples/thp8_bignoodle.png)
 
+## Cafeta
+* Author: Iñaki Marquínez
+* Link: https://www.dafont.com/es/cafeta.font
+* Usage: basically big noodle titling replacement
+
+![](samples/thp8_cafeta.png)
+
 # Tony Hawk's Proving Ground
 
 ## Positec
