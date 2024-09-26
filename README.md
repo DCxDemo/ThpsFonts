@@ -343,7 +343,7 @@ Contributed by AxlRocks. "Also, the "Paused" graphic for the Flip sponsor theme 
 
 ![](samples/thp8_bignoodle.png)
 
-## Cafeta
+## Cafeta (https://github.com/DCxDemo/ThpsFonts/issues/9)
 * Author: Iñaki Marquínez
 * Link: https://www.dafont.com/es/cafeta.font
 * Usage: basically big noodle titling replacement
