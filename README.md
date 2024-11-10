@@ -199,7 +199,7 @@ The original font is so low-res, it's hard to tell what exactly was used. Gonzal
 # Tony Hawk's Pro Skater 4
 
 ## Crillee
-* Link: https://www.myfonts.com/fonts/linotype/crillee/
+* Link: https://www.myfonts.com/collections/crillee-italic-font-itc
 * Usage: loading screens, various messages and menus
 
 Another great font linked to the game in your mind. Remember THPS4 had a lot of 80s music, so were the fonts.
