@@ -12,12 +12,13 @@ Since we're on hosted on the Github now, feel free to open issues to discuss pot
 Credit where credit's due. People contributed to the list:
 * thmods.com: dcxdemo, ThAeM, AxlRocks
 * WhatTheFont: Tecnotronic, Lobotomy
+* GIthub/LegacyThps: Zedek
 
 # !!! Warning !!!
 Please keep in mind that most fonts used in Tony Hawk's games are licensed and are **not free to use**. Please thoroughly refer to the font's license before using it in your project. The MIT license in this repo refers to the collected and structured information about these fonts, not to the fonts themselves!
 
 # WANTED fonts
-There are many fonts yet to be found. Here's a brief list of most wanted fonts so far:
+There are many fonts yet to be found. Refer to open issues for more info. Here's a brief list of most wanted fonts so far:
 * THPS2 career goal font (comic sans?)
 * THPS2x header font (main menu title, paused text) https://github.com/DCxDemo/ThpsFonts/issues/5
 * THPS3 trick string (gonzalez?) https://github.com/DCxDemo/ThpsFonts/issues/4
@@ -187,6 +188,14 @@ This font was used a lot during the development for the advertisement as seen on
 Some of these fonts are surprisingly old. Even though it's very simple, you will recognize it instantly.
 
 ![](samples/thps3_microgramma.png)
+
+## Onani
+* Link: https://tarmsaft.se/sansserif.html
+* Usage: stance indicator, beta dialog font
+
+A narrow streamlined font, quite unfortunate they didn't keep it for dialogs as planned.
+
+![](samples/thps3_onani.png)
 
 ## Gonzalez (probably not, but close call)
 * Link: https://www.t26.com/fonts/8437-Gonzalez
