@@ -189,7 +189,7 @@ Some of these fonts are surprisingly old. Even though it's very simple, you will
 
 ![](samples/thps3_microgramma.png)
 
-## Onani
+## Onani (https://github.com/DCxDemo/ThpsFonts/issues/12)
 * Link: https://tarmsaft.se/sansserif.html
 * Usage: stance indicator, beta dialog font
 
