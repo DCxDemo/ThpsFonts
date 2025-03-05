@@ -461,7 +461,7 @@ The font you're looking at while you play.
 
 ![](samples/thps12_neosans.png)
 
-## Teko
+## Teko (https://github.com/DCxDemo/ThpsFonts/issues/14)
 * Author: Indian Type Foundry
 * Link: https://fonts.google.com/specimen/Teko
 * Usage: various promo materials
