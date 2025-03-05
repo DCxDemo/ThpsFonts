@@ -12,7 +12,7 @@ Since we're on hosted on the Github now, feel free to open issues to discuss pot
 Credit where credit's due. People contributed to the list:
 * thmods.com: dcxdemo, ThAeM, AxlRocks
 * WhatTheFont: Tecnotronic, Lobotomy
-* GIthub/LegacyThps: Zedek
+* GIthub/LegacyThps: Zedek, bAstimc
 
 # !!! Warning !!!
 Please keep in mind that most fonts used in Tony Hawk's games are licensed and are **not free to use**. Please thoroughly refer to the font's license before using it in your project. The MIT license in this repo refers to the collected and structured information about these fonts, not to the fonts themselves!
