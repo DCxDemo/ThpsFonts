@@ -461,4 +461,14 @@ The font you're looking at while you play.
 
 ![](samples/thps12_neosans.png)
 
+## Teko
+* AUthor: Indian Type Foundry
+* Link: https://fonts.google.com/specimen/Teko
+* Usage: various promo materials
+
+This one seems never appears in the game, but it was extensively used in promotion.
+
+![](samples/thps12_teko.png)
+
+
 # That's all folks!
