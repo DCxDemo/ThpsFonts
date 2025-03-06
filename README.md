@@ -85,7 +85,7 @@ Basically, RCA font. Thanks AxlRocks for this contribution.
 * Link: https://www.myfonts.com/collections/bauhaus-font-itc
 * Usage: pro skater named on the cover art, promo materials
 
-A fat roundish look gives this one away instantly.
+A fat roundish look gives this one away instantly. You can also find it on the Tony Hawk's Motion cover.
 
 ![](samples/thps1_bauhaus.png)
 
@@ -369,6 +369,17 @@ Contributed by AxlRocks. "Also, the "Paused" graphic for the Flip sponsor theme 
 Contributed by ThAeM a long time ago, finally here.
 
 ![](samples/thpg_positec.png)
+
+# Tony Hawk's Motion (Nintendo DS)
+
+## Biff Bam Boom
+* Author: John Roshell, Comicraft
+* Link: https://www.myfonts.com/collections/biff-bam-boom-font-comicraft
+* Usage: various titles
+
+Used for most titles in the game. They used lowercase letters and 1 instead of I.
+
+![](samples/thm_biffbam.png)
 
 # Tony Hawk's Shred Session (a cancelled mobile game)
 
