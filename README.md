@@ -309,6 +309,15 @@ Another stencil font, used as a font for classic level names. Only used on the l
 
 ![](samples/thug2_delivered.png)
 
+## Dokyo
+* Author: Fontalicious
+* Link: https://www.fontalicious.com/project/dokyo/
+* Usage: SWITCH text
+
+A surprisingly small sample to identify, yet there it is.
+
+![](samples/thug2_dokyo.png)
+
 # Tony Hawk's American Wasteland
 
 ## Glaser Stencil
@@ -321,6 +330,7 @@ Stencil font is a hell to find, but when you do, it's rewarding. This huge O alw
 ![](samples/thaw_glaser.png)
 
 ## City
+* Author: Georg Trump
 * Link: https://www.bertholdtypes.com/font/city/pro/
 * Usage: various menu headers
 
