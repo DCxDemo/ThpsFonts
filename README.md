@@ -312,7 +312,7 @@ Another stencil font, used as a font for classic level names. Only used on the l
 ## Dokyo
 * Author: Fontalicious
 * Link: https://www.fontalicious.com/project/dokyo/
-* Usage: SWITCH text
+* Usage: stance text
 
 A surprisingly small sample to identify, yet there it is.
 
