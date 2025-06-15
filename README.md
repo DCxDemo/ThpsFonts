@@ -493,7 +493,7 @@ It seems this one never appears in the game, but it was extensively used in prom
 
 # Tony Hawk's Pro Skater 3+4
 
-## Ramkoers
+## Ramkoers (https://github.com/DCxDemo/ThpsFonts/issues/19)
 * Author: David Kerkhoff, Hanoded
 * Link: https://www.myfonts.com/collections/ramkoers-font-hanoded
 * Usage: various titles
