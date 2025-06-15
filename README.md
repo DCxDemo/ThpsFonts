@@ -491,5 +491,16 @@ It seems this one never appears in the game, but it was extensively used in prom
 
 ![](samples/thps12_teko.png)
 
+# Tony Hawk's Pro Skater 3+4
+
+## Ramkoers
+* Author: David Kerkhoff, Hanoded
+* Link: https://www.myfonts.com/collections/ramkoers-font-hanoded
+* Usage: various titles
+
+Italic version is used in the game.
+
+![](samples/thps34_ramkoers.png)
+
 
 # That's all folks!
