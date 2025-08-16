@@ -466,6 +466,15 @@ THPS5 definitely was a font fest, you can find up to 4 different fonts on the sa
 
 # Tony Hawk's Pro Skater 1+2
 
+## Agency FB
+* Author: David Berlow, Font Bureau (originally by Morris Fuller Benton, 1930s)
+* Link: https://www.myfonts.com/collections/agency-fb-font-font-bureau
+* Usage: THPS logo
+
+Apparently it was slightly modified, specifically R and S. Surprisingly, both top and bottom half are the same font, just different weights. It was later reused for THPS3+4 logo.
+
+![](samples/thps12_agency.png)
+
 ## Sonic
 * Link: https://www.myfonts.com/fonts/bitstream/sonic/
 * Usage: Main menu and various menu titles
