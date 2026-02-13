@@ -6,7 +6,7 @@ This repository is the new home for the THPS fonts hunt started back in 2014. Th
 Call me a font maniac, as I'm the one who was bored enough to write the font tool for THPS games and now this, but fonts are actually a very important part of game design. Anyways, if you ever wanted to write something using a font from a Tony Hawk game, chances are that you will find it here. For a long time I thought these games use some exclusive designs, cause I never seen these fonts outside Tony Hawk games, but occasionaly this is not the case. Most of these fonts, if not all of them, actually have their Truetype sources. However, most of these fonts are commercial, but it doesn't hurt to try it on a preview page. So prepare yourself to scroll down if you're interested in. Of course a lot of fonts are missing for now, so if by a chance you're familiar with other sources, share the knowledge.
 
 # Ways to contibute
-Since we're on hosted on the Github now, feel free to open issues to discuss potential candidates. You can also join the LegacyThps server on Discord or write me an e-mail if you wish. Any contributions are welcome.
+Since we're on hosted on the Github now, feel free to open issues to discuss potential candidates. You can also join the LegacyThps server on Discord or write me an e-mail if you wish. Report broken links, any contributions are welcome.
 
 # Contributions
 Credit where credit's due. People contributed to the list:
@@ -158,7 +158,8 @@ It was basically the font that started it all. PDF files contain meta informatio
 ![](samples/thps3_ritafurey.png)
 
 ## Uptown
-* Link: http://www.dafont.com/uptown.font
+* Author: Joey Nelson, Anthem Type
+* Link: https://web.archive.org/web/20020330182612/http://bloop.org/anthem/uptown.html
 * Usage: loading screens, menu titles
 
 Agressive "street" font. It was so cool back then. Funny fact is that it was actively used during development of THPS1. You can notice this font all around the early THPS1 beta builds.
